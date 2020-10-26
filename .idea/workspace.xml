@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
@@ -167,8 +170,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603652286950</updated>
       <workItem from="1603652289267" duration="10074000" />
-      <workItem from="1603664902505" duration="9840000" />
-      <workItem from="1603675511580" duration="98000" />
+      <workItem from="1603664902505" duration="11185000" />
+      <workItem from="1603676867580" duration="30000" />
     </task>
     <servers />
   </component>
@@ -176,6 +179,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1603675504091">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1603675504091" />
     <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1603655289463">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

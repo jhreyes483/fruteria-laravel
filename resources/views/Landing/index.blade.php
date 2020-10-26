@@ -7,9 +7,9 @@
         <h2>Inicio </h2>
     </div>
 </div>
+<div class="card col-lg-10 mx-auto">
 
-
- <div class = 'container-fluid col-lg-10'>
+ <div class = 'container-fluid '>
     <div class="row">
 
 
@@ -160,7 +160,7 @@
  </div>
 
 
-
+ </div>
 
 
 
